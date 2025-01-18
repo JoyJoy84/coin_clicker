@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_gold",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.862041,
+  "name":"snd_gold",
+  "parent":{
+    "name":"MP3",
+    "path":"folders/Sounds/MP3.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_gold.mp3",
+  "type":0,
+  "volume":1.0,
+}

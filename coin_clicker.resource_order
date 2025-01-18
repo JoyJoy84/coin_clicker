@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Extensions","order":4,"path":"folders/Extensions.yy",},
+    {"name":"Paths","order":2,"path":"folders/Paths.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":3,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[],
+}
